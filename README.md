@@ -54,3 +54,5 @@ ClassHub-4.0/
    ├── yoklama_isik.py          # MicroPython kodu (Pico için)
 
    └── kapi_isik_kontrol.ino    # ESP8266 kodu
+
+  
