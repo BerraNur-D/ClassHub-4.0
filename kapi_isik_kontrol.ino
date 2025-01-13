@@ -3,8 +3,8 @@
 #include <ESP8266WebServer.h>
 #include <Servo.h>
 
-const char* ssid = "berranur";
-const char* password = "12345678b";
+const char* ssid = "wi-fi_name";
+const char* password = "wi-fi_password";
 
 ESP8266WebServer server(80); // Web server oluşturuluyor
 Servo myServo;               // Servo motor nesnesi oluşturuluyor
